@@ -1,0 +1,6 @@
+24:10:2022 10:40:41am: grtToken debug--auth username & pass: {"username":"sp_sandbox","password":"pyyk97hu&6u61"}
+24:10:2022 10:40:41am: grtToken info: {"sp_code":"1064","message":"Unauthorized"}
+24:10:2022 10:45:35am: grtToken debug--auth username & pass: {"username":"sp_sandbox","password":"pyyk97hu&6u61"}
+24:10:2022 10:45:35am: grtToken info: {"sp_code":"1064","message":"Unauthorized"}
+24:10:2022 06:17:58pm: grtToken debug--auth username & pass: {"username":"sp_sandbox","password":"pyyk97hu&6u61"}
+24:10:2022 06:17:58pm: grtToken info: {"sp_code":"1064","message":"Unauthorized"}

@@ -1,0 +1,8 @@
+20:10:2022 05:12:05pm: grtToken debug--auth username & pass: {"username":"sp_sandbox","password":"pyyk97hu&6u61"}
+20:10:2022 05:12:26pm: grtToken info: cURL Error #:Failed to connect to sandbox.shurjopayment.com port 443: Timed out
+20:10:2022 05:13:12pm: grtToken debug--auth username & pass: {"username":"sp_sandbox","password":"pyyk97hu&6u61"}
+20:10:2022 05:13:33pm: grtToken info: cURL Error #:Failed to connect to sandbox.shurjopayment.com port 443: Timed out
+20:10:2022 05:14:24pm: grtToken debug--auth username & pass: {"username":"sp_sandbox","password":"pyyk97hu&6u61"}
+20:10:2022 05:14:25pm: grtToken info: {"sp_code":"1064","message":"Unauthorized"}
+20:10:2022 05:15:12pm: grtToken debug--auth username & pass: {"username":"sp_sandbox","password":"pyyk97hu&6u61"}
+20:10:2022 05:15:12pm: grtToken info: {"sp_code":"1064","message":"Unauthorized"}
